@@ -1,4 +1,4 @@
 Cmd + 1: Toggle dark mode
-*Cmd + 2: Save as txt file
-*Cmd + 3: Speedometer
-Cmd + 4: don't
+<br>Cmd + 2: Save as txt file
+<br>Cmd + 3: Speedometer
+<br>Cmd + 4: don't
